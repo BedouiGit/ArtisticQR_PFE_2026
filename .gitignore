@@ -1,0 +1,18 @@
+# Ignore everything
+*
+
+# Unignore root files
+!.gitignore
+!.gitconfig
+!Lora_persets.py
+!scannability_check.py
+!generate_qr_pattern.py
+!generate_QR.py
+!main.py
+!pipeline.py
+!requirements.txt
+!requirements-dev.txt
+!README.md
+
+# Unignore folders AND their contents
+!Artistic-QR-Code-generation/
